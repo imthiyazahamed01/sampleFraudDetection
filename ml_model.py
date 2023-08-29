@@ -9,3 +9,5 @@ def ml_model2():
 
 def ml_model3():
     return 3
+
+print("model2 is working identified as effective model")
